@@ -1,5 +1,6 @@
 # iesAnchor v0.1
 Fix any element on scroll with javascript
+![example](https://github.com/tritone11/iesAnchor/blob/master/example.gif?raw=true)
 
 ## Usage
 Include iesAnchor.js in your webpage and then call this function ***after*** your target element is loaded
