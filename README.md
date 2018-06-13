@@ -1,4 +1,4 @@
-# iesAnchor v0.1
+# iesAnchor v0.1.1
 Fix any element on scroll with javascript
 ![example](https://github.com/tritone11/iesAnchor/blob/master/example.gif?raw=true)
 
